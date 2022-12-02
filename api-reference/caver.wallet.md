@@ -1,2 +1,0 @@
-# caver.wallet
-
