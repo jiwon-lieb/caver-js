@@ -6,9 +6,6 @@
 
 * [caver.account](api-reference/caver.account.md)
 * [caver.wallet](api-reference/caver.wallet.md)
-
-* [caver.account](api-reference/caver.account.md)
-* [caver.wallet](api-reference/caver.wallet/README.md)
   * [caver.wallet.keyring](api-reference/caver.wallet/keyring.md)
 * [caver.transaction](api-reference/caver.transaction/README.md)
   * [Basic](api-reference/caver.transaction/basic.md)
