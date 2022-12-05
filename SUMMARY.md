@@ -1,12 +1,11 @@
 # Table of contents
 
 * [Overview](README.md)
+
+## caver-js
+
 * [Prerequisites](prerequisites.md)
 * [Getting Started](getting-started.md)
-
-## API reference
-
-### caver-js
 
 * [caver.account](api-reference/caver.account.md)
 * [caver.wallet](api-reference/caver.wallet.md)
@@ -29,4 +28,4 @@
 * [caver.utils](api-reference/caver.utils.md)
 * [caver.ipfs](api-reference/caver.ipfs.md)
 
-### caver-java
+## caver-java
