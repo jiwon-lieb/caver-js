@@ -1,6 +1,6 @@
 # Overview
 
-You are in the caver SDK API reference documentation site.
+Welcome to the caver SDK API reference documentation site.
 
 Caver SDK is an API library to interact with the Klaytn Blockchain using HTTP or WebSocket. It is your starting point for building decentralized applications on Klaytn.
 
