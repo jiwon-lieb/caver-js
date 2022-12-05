@@ -4,7 +4,6 @@
 
 ## caver-js
 
-*
 * [Getting Started](getting-started.md)
 * [API Reference](caver-js/api-reference/README.md)
   * [caver.account](caver-js/api-reference/caver.account.md)
@@ -30,6 +29,4 @@
 
 ## caver-java
 
-*
-*
 * [API Reference](https://javadoc.io/doc/com.klaytn.caver/core/)
