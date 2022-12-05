@@ -4,9 +4,9 @@
 
 ## caver-js
 
-* [About caver-js](README.md)
+*
 * [Getting Started](getting-started.md)
-* [API Reference](api-reference/README.md)
+* [API Reference](caver-js/api-reference/README.md)
   * [caver.account](caver-js/api-reference/caver.account.md)
   * [caver.wallet](caver-js/api-reference/caver.wallet/README.md)
     * [caver.wallet.keyring](caver-js/api-reference/caver.wallet/caver.wallet.keyring.md)
@@ -30,6 +30,6 @@
 
 ## caver-java
 
-* [About caver-java](README.md)
-* [Getting Started](getting-started.md)
+*
+*
 * [API Reference](https://javadoc.io/doc/com.klaytn.caver/core/)
