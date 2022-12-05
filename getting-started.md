@@ -7,7 +7,7 @@ The following packages are required to use the caver-js library.
 * [Node.js](https://nodejs.org/en/download)
 * [npm](https://www.npmjs.com/get-npm)
 * [Solidity](https://solidity.readthedocs.io/en/develop/installing-solidity.html)
-* [NVM](https://github.com/nvm-sh/nvm)
+* [nvm](https://github.com/nvm-sh/nvm)
 
 **NOTE**: Use the below versions for node.js
 
