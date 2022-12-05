@@ -6,8 +6,8 @@
 
 * [Getting Started](getting-started.md)
 * [API Reference](caver-js/api-reference/README.md)
-  * [caver.account](caver-js/api-reference/caver.account.md)
-  * [caver.wallet](caver-js/api-reference/caver.wallet/README.md)
+  * [caver.account](api-reference/caver.account.md)
+  * [caver.wallet](api-reference/caver.wallet/README.md)
     * [caver.wallet.keyring](caver-js/api-reference/caver.wallet/caver.wallet.keyring.md)
   * [caver.transaction](caver-js/api-reference/caver.transaction/README.md)
     * [Basic](caver-js/api-reference/caver.transaction/basic.md)
