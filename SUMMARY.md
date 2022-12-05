@@ -4,7 +4,6 @@
 
 ## caver-js
 
-* [Prerequisites](prerequisites.md)
 * [Getting Started](getting-started.md)
 
 * [caver.account](api-reference/caver.account.md)
